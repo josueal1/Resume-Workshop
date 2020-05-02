@@ -1,0 +1,32 @@
+body{
+	margin:0;
+	font-family: Times New Roman, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.header{
+	padding-top: 20px;
+	text-align:center;
+	background-color: rgb(100, 185, 178);
+	height:170px;
+}
+a{
+	color: black;
+}
+
+
+h2{
+	margin-top: 0px;
+	padding-top:10px;
+}
+
+hr{
+	border: 1.2px solid rgb(100, 185, 178);
+}
+
+
+.fa-linkedin, .fa-github {
+	font-size: 2em;
+	color: rgb(100, 185, 178);
+	margin: 1rem;
+}
+
